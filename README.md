@@ -3,10 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://pub.dev/packages/pod_player/score"><img src="https://badges.bar/pod_player/likes" alt="pub likes"></a>
-  <a href="https://pub.dev/packages/pod_player"><img src="https://img.shields.io/pub/v/pod_player?style=flat" alt="pub version"></a>
-  <a href="https://pub.dev/packages/pod_player/score"><img src="https://badges.bar/pod_player/popularity" alt="popularity"></a>
-  <a href="https://pub.dev/packages/pod_player/score"><img src="https://badges.bar/pod_player/pub%20points" alt="pub points"></a>
+
 
 </p>
 Video player for flutter web & mobile devices, pod player supports playing video from `Youtube` and `Vimeo`
