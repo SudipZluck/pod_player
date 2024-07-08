@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "authorDetails": {
+            "name": "John"
+        },
+        "authorBookDetails": {
+            "language": [
+                {
+                    "langCode": "guj",
+                    "langName": "Gujarati"
+                },
+                {
+                    "langCode": "eng",
+                    "langName": "English"
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "authorDetails": {
+            "name": "James"
+        },
+        "authorBookDetails": {
+            "language": [
+                {
+                    "langCode": "rus",
+                    "langName": "Russian"
+                },
+                {
+                    "langCode": "eng",
+                    "langName": "English"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "authorDetails": {
+            "name": "Karl"
+        },
+        "authorBookDetails": {
+            "language": [
+                {
+                    "langCode": "guj",
+                    "langName": "Gujarati"
+                },
+                {
+                    "langCode": "eng",
+                    "langName": "English"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "authorDetails": {
+            "name": "Mave"
+        },
+        "authorBookDetails": {
+            "language": [
+                {
+                    "langCode": "guj",
+                    "langName": "Gujarati"
+                },
+                {
+                    "langCode": "eng",
+                    "langName": "English"
+                },
+                {
+                    "langCode": "rus",
+                    "langName": "Russian"
+                }
+            ]
+        }
+    }
+]
